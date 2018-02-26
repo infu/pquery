@@ -1,5 +1,6 @@
 # pQuery
-Photoshop ExtendScript library for civilized scripting
+Photoshop ExtendScript library for civilized scripting.
+
 This library is so far only concept and has only three functions.
 It stayed in my forum for a while as an answer, but I decided to put it here
 and if people show interest, it can grow.
